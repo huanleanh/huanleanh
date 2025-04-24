@@ -30,6 +30,6 @@
 
 
 <div align="center">  
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=huanleanh&show_icons=true&count_private=true&hide_border=true&title_color=F75656&icon_color=F75656&text_color=F75656&bg_color=0d1117" alt="Huan Le ANH github stats" /> 
-  <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanleanh&layout=compact&hide_border=true&title_color=F75656&text_color=F75656&bg_color=0d1117" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=huanleanh&show_icons=true&count_private=true&hide_border=true&title_color=F75656&icon_color=F75656&text_color=F75656&bg_color=0d1117" alt="Huan Le A. github stats" /> 
+  <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanleanh&layout=compact&hide_border=true&title_color=F75656&text_color=F75656&bg_color=0d1117"/>
 </div>

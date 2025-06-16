@@ -11,9 +11,6 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-F75656?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huanleanh/)
-[![Discord](https://img.shields.io/badge/Discord-F75656?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nil)
-
-
 <h1></h1>
 
 

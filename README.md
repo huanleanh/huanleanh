@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=45&duration=1000&pause=1000&color=F75656&background=38D4ED00&width=650&height=120&lines=Huan+Le+Anh!+++++Hollaaaa!!!+;Swift+%7C+iOS+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=45&duration=1000&pause=3000&color=F75656&background=38D4ED00&width=650&height=120&lines=Huan+Le+A.!+++++Hollaaaa!!!+;Swift+%7C+iOS+Developer">
  
   </a>
 </p>
